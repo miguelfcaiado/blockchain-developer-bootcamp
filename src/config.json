@@ -16,5 +16,8 @@
 	},
 	"42": {
 		"explorerURL" : "https://kovan.etherscan.io/"
+	},
+	"5": {
+		"explorerURL" : "https://goerli.etherscan.io/"
 	}
 }
